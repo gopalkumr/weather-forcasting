@@ -1,0 +1,13 @@
+.current A* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+  body {
+    font-family: 'Rubik Marker Hatch', cursive;
+    background-image: url('https://source.unsplash.com/1600x900/?white');
+    background-size: cover;
+    background-position: top center;
+    
+  }
